@@ -15,3 +15,5 @@ Its price is much lower and acceptable for small website owner.
 It's free to get a new version of xLang.
 ##### Automation scripts for translation
 We also provide Python scripts to help you translate your posts and pages automatically.
+### Tags
+Alternative of WPML,Alternative of PolyLang,Alternative of WP Multilang,Alternative of Weglot Translate,Alternative of MultilingualPress,Alternative of WP Multisite,Alternative of Translatepress,Alternative of GTraslator,multilingual plugin for WordPress,make your WordPress site multilingual
